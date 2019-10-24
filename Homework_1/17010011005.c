@@ -1,5 +1,5 @@
 // linked list
-// Yunus Emre Alpu 17010011005
+// Phone Guide
 
 #include <stdio.h>
 #include <conio.h>
