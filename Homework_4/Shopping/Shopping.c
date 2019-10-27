@@ -231,7 +231,7 @@ void ord_list()  // show all data
     temp=head;
     for(k=temp; k!=NULL ; k=k->next)
     {
-        printf(" - %s \t %s \t %d \t %s \t %.4f \t %d \n",k->o_owname,k->o_owsurname,k->o_owage,k->o_name, k->o_price, k->o_shift);
+        printf(" - %s \t %s \t %.3d \t %s \t %.4f \t %d \n",k->o_owname,k->o_owsurname,k->o_owage,k->o_name, k->o_price, k->o_shift);
     }
 }
 
