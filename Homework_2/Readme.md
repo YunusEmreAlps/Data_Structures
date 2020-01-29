@@ -1,5 +1,4 @@
  # String Example(Doubly Linked List)
- **I used doubly linked list in this project and this is basic phone guide code.** <br/>
 
  ## RULES
  
